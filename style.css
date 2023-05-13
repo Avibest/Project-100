@@ -1,0 +1,68 @@
+#start-btn
+{
+    width: 40%;
+}
+
+#camera
+{
+    width: 360px;
+    height: 250px;
+    border: 1px solid grey;
+}
+
+#logo_img
+{
+    width: 200px;
+    border-radius: 150px;
+}
+
+#textbox
+{
+    width: 300px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+h1{
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: 75;
+    font-size: 50;
+    color: black;
+    text-shadow: 2px 2px aqua;
+    font-variant: small-caps;    
+}
+
+image:hover{
+    border-radius: 140px;
+}
+
+img{
+    height: 400px;
+    width: 600px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 10px ridge steelblue;
+}
+
+.body_back{
+    background-color: rgb(208, 205, 205);
+}
+h4{
+    color: red;
+}
+
+#result{
+    display: flex;
+    margin-left: 300px;
+}
+
+label{
+    font-size: 18px;
+}
